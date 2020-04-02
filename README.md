@@ -2,7 +2,7 @@
 
 ## Daftar Isi
 1. [Nomor 1](#1)
-  - [Nomor 1 - Pokezone](#1p)
+  	- [Nomor 1 - Pokezone](#1p)
 	- [Nomor 1 - Traizone](#1t)
 2. [Nomor 2](#2)
 3. [Nomor 3](#3)
